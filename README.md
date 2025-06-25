@@ -51,8 +51,7 @@ jobs 명령어는 현재 입력한 셸에서 실행 중이거나 일시정지, �
 
 예시:  
 $ jobs  
-[1]+  Running                 sleep 100 & (100초 대기 명령어)  
-[2]-  Stopped                 nano memo.txt (nano로 memo.txt파일을 실행시킴)  
+![jobs 실행화면](screenshot_jobs2.png)  
 아무 작업도 실행되거나 일시정지 되어있지 않으면 아무것도 출력되지 않는다.  
 ![jobs 실행화면](screenshot_jobs.png)
 
